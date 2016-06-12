@@ -1,0 +1,2 @@
+%{"gproc": {:git, "https://github.com/uwiger/gproc.git", "58b75ef086d568e84ee56c390e250b7b924f2ce8", []},
+  "hedwig": {:git, "https://github.com/hedwig-im/hedwig.git", "090048c58d0831c4d3b97e15f592c6af8e4a6c02", []}}
